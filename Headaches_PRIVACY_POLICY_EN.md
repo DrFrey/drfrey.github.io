@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy for the “Headaches” Mobile Application"
+permalink: /headaches/privacy
+
 ### Privacy Policy for the “Headaches” Mobile Application
 
 Effective date: 1.03.2026
