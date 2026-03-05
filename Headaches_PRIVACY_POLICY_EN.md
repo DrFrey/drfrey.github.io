@@ -1,6 +1,6 @@
 layout: page
 title: "Privacy Policy for the “Headaches” Mobile Application"
-permalink: /headaches/privacy
+permalink: /headaches/privacy/
 
 ### Privacy Policy for the “Headaches” Mobile Application
 
