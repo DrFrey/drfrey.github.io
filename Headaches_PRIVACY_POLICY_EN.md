@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Privacy Policy for the “Headaches” Mobile Application"
+title: "Privacy Policy"
 permalink: /headaches/en/privacy
 ---
 
